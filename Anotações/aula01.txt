@@ -1,0 +1,21 @@
+--------Java Ad---------
+*Detalhes de Diagrama de Classes*
+
+- símbolo de "-" em diagrama de classes significa atributo privado.
+
+- Encapsulamento: método get em atributos privados, permitindo leitura 
+por parte de outras classes.
+
+- seta completa: demonstra herança de outra classe.
+
+- seta pontilhada e aberta: seta pontilhada écomposição e seta aberta é herança.
+
+- método construtor: Tem letra maiúscula, tendo mesmo nome da classe
+
+- Classe e objeto:
+
+*Detalhes de código em Java*
+
+-Enum: 
+
+
